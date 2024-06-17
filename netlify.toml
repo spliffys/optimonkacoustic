@@ -1,0 +1,3 @@
+# This is required to have functions in production
+[build]
+    functions = "functions/"  
